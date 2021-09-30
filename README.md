@@ -3,7 +3,10 @@
 # Weather-Dataset-Analysis
 
 <!-- Add buttons here -->
-
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+![GitHub issues](https://img.shields.io/https:/github.com/ridhed/Weather-Dataset-Analysis/issues)
+![GitHub pull requests](https://img.shields.io/github.com/ridhed/Weather-Dataset-Analysis/pulls)
+![GitHub](https://img.shields.io/github.com/ridhed/Weather-Dataset-Analysis)
 <!-- Describe your project in brief -->
 The Notebook described in the section will query the daily-summaries dataset to retrieve the desired data based on few constraints.
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
