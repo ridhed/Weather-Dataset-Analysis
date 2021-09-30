@@ -17,8 +17,6 @@ The Notebook described in the section will query the daily-summaries dataset to 
 # Table of contents
 
 - [Project Title](#project-title)
-- [Demo-Preview](#demo-preview)
-- [Installation](#installation)
 - [Data Science Project](#Let's-understand-the-basic-phases-in-Data-Science-Project)
 - [License](#license)
 
