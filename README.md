@@ -9,7 +9,7 @@ The Notebook described in the section will query the daily-summaries dataset to 
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
-![undraw_Weather_re_qsmd](https://user-images.githubusercontent.com/83410546/135465586-f80f97eb-24f8-432d-a9db-655f8c331ac4.png)
+![undraw_Weather_re_qsmd](https://user-images.githubusercontent.com/83410546/135466445-11816c83-d17c-4546-a2b5-373fb144576c.png)
 The best dimensions for the banner is **1280x650px**. You could also use this for social preview of your repo.
 
 I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
