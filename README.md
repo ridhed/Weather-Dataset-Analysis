@@ -17,8 +17,8 @@ The Notebook described in the section will query the daily-summaries dataset to 
 # Table of contents
 
 - [Project Title](#project-title)
-- [Data Analysis Project](#Let's-understand-the-basic-phases-in-Data-Analysis-Project)
-- [How I Did The Weather Dataset Analysis](#How-I-Did-TheWeather-Dataset-Analysis)
+- [Data Analysis Project](#let's-understand-the-basic-phases-in-data-analysis-project)
+- [How I Did The Weather Dataset Analysis](#how-i-did-the-weather-dataset-analysis)
 - [License](#license)
 
 # Let's understand the basic phases in Data Analysis Project 
@@ -50,7 +50,7 @@ satisfying in missing values.
 
 [(Back to top)](#table-of-contents)
 
-# How-I-Did-The-Weather-Dataset-Analysis
+# How I Did The Weather Dataset Analysis
 
 Functions Used For Analysis
 
