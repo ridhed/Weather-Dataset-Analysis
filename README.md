@@ -18,36 +18,35 @@ The Notebook described in the section will query the daily-summaries dataset to 
 
 - [Project Title](#project-title)
 - [Data Analysis Project](#Let's-understand-the-basic-phases-in-Data-Analysis-Project)
-- [How I Did The Weather Dataset Analysis](#Weather Dataset Analysis)
+- [How I Did The Weather Dataset Analysis](#Weather-Dataset-Analysis)
 - [License](#license)
 
 # Let's understand the basic phases in Data Analysis Project 
 1. Business Understanding
- -Data mining goals are defined.
- -The fundamental requirement is to understand client and business objectives.
- -Current data mining scenario factors in resources, constraints and
+ * Data mining goals are defined.
+ * The fundamental requirement is to understand client and business objectives.
+ * Current data mining scenario factors in resources, constraints and
 assumptions should also be taken into the consideration.
 2. Data Understanding
- -In this stage, a sanity check is conducted to understand whether it is appropriate for data mining goals.
- -The data is collected from various sources within the organization.
- -It is a highly complex process since data and process from various sources are unlikely to match easily.
+ * In this stage, a sanity check is conducted to understand whether it is appropriate for data mining goals.
+ * The data is collected from various sources within the organization.
+ * It is a highly complex process since data and process from various sources are unlikely to match easily.
 3. Data Preparation
- -The data is production ready in this stage.
- -The data from diverse sources should be nominated, cleaned, transformed,formatted, anonymized, and created.
- -Data cleaning is a process to "clean" the data by smoothing noisy data and
+ * The data is production ready in this stage.
+ * The data from diverse sources should be nominated, cleaned, transformed,formatted, anonymized, and created.
+ * Data cleaning is a process to "clean" the data by smoothing noisy data and
 satisfying in missing values.
 4. Modelling
- -In this stage, mathematical models are used to determine the data patterns.
- -Suitable modelling techniques need to be chosen for the prepared data set.
- -After that, create a scenario to validate the model. Then run the model on the prepared data set.
+ * In this stage, mathematical models are used to determine the data patterns.
+ * Suitable modelling techniques need to be chosen for the prepared data set.
+ * After that, create a scenario to validate the model. Then run the model on the prepared data set.
 5. Evaluation
- -In this stage, patterns recognized are examined against business objectives.
- -A go or no-go decision should be taken to move the model in the deployment phase.
+ * In this stage, patterns recognized are examined against business objectives.
+ * A go or no-go decision should be taken to move the model in the deployment phase.
 6. Deployment
- -In this stage, ship your data mining.
- -Discoveries (model/reports) to every business operation.
- -A thorough deployment plan, for shipping, maintenance, and monitoring of
-data mining discoveries is created. – Knowledge Management.
+ * In this stage, ship your data mining.
+ * Discoveries (model/reports) to every business operation.
+ * A thorough deployment plan, for shipping, maintenance, and monitoring of data mining discoveries is created. – Knowledge Management.
 
 [(Back to top)](#table-of-contents)
 
