@@ -69,8 +69,8 @@ Functions Used For Analysis
 
 Questions Answered/Analysed From The Dataset
 
-*Q.1)  Find all the unique 'Wind Speed' values in the data.
-*Q.2) Find the number of times when the 'Weather is exactly Clear'.
+-Q.1)  Find all the unique 'Wind Speed' values in the data.
+-Q.2) Find the number of times when the 'Weather is exactly Clear'.
 *Q.3) Find the number of times when the 'Wind Speed was exactly 4 km/h'.
 *Q.4) Find out all the Null Values in the data.
 *Q.5) Rename the column name 'Weather' of the dataframe to 'Weather Condition'.
