@@ -19,7 +19,6 @@ The Notebook described in the section will query the daily-summaries dataset to 
 - [Project Title](#project-title)
 - [Data Analysis Project](#the-basic-phases-in-data-analysis-project)
 - [How I Did The Weather Dataset Analysis](#how-i-did-the-weather-dataset-analysis)
-- [License](#license)
 
 # The basic phases in Data Analysis Project 
 1. Business Understanding
@@ -88,14 +87,5 @@ Questions Answered/Analysed From The Dataset
        
 [(Back to top)](#table-of-contents)
 
-# License
-
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ridhed/Weather-Dataset-Analysis?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/ridhed/Weather-Dataset-Analysis)
-![GitHub issues](https://img.shields.io/github/issues-raw/ridhed/Weather-Dataset-Analysis)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ridhed/Weather-Dataset-Analysis)
-![GitHub](https://img.shields.io/github/license/ridhed/Weather-Dataset-Analysis)
-
-[(Back to top)](#table-of-contents)
 
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
