@@ -17,11 +17,11 @@ The Notebook described in the section will query the daily-summaries dataset to 
 # Table of contents
 
 - [Project Title](#project-title)
-- [Data Analysis Project](#let's-understand-the-basic-phases-in-data-analysis-project)
+- [Data Analysis Project](#the-basic-phases-in-data-analysis-project)
 - [How I Did The Weather Dataset Analysis](#how-i-did-the-weather-dataset-analysis)
 - [License](#license)
 
-# Let's understand the basic phases in Data Analysis Project 
+# The basic phases in Data Analysis Project 
 1. Business Understanding
  * Data mining goals are defined.
  * The fundamental requirement is to understand client and business objectives.
