@@ -18,7 +18,7 @@ The Notebook described in the section will query the daily-summaries dataset to 
 
 - [Project Title](#project-title)
 - [Data Analysis Project](#Let's-understand-the-basic-phases-in-Data-Analysis-Project)
-- [How I Did The Weather Dataset Analysis](#Weather-Dataset-Analysis)
+- [How I Did The Weather Dataset Analysis](#How-I-Did-TheWeather-Dataset-Analysis)
 - [License](#license)
 
 # Let's understand the basic phases in Data Analysis Project 
@@ -46,11 +46,11 @@ satisfying in missing values.
 6. Deployment
  * In this stage, ship your data mining.
  * Discoveries (model/reports) to every business operation.
- * A thorough deployment plan, for shipping, maintenance, and monitoring of data mining discoveries is created. – Knowledge Management.
+ * A thorough deployment plan, for shipping, maintenance, and monitoring of data mining discoveries is created.
 
 [(Back to top)](#table-of-contents)
 
-# Weather Dataset Analysis
+# How I Did The Weather Dataset Analysis
 
 Functions Used For Analysis
 
@@ -85,6 +85,7 @@ Questions Answered/Analysed From The Dataset
 * Q.15) Find all instances when :
        A. 'Weather is Clear' and 'Relative Humidity is greater than 50'or
        B. 'Visibility is above 40'
+       
 [(Back to top)](#table-of-contents)
 
 # License
